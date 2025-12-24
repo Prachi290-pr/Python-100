@@ -6,7 +6,7 @@ print(para)
 
 # Getting the string value as an Array
 word = "Oranges are tangy"   # 0 1 2 ..
-print(word[0:3])
+print(word[0])
 
 
 # Looping through a String
