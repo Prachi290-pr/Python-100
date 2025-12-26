@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="473347ac-70e6-4113-8145-52a07a5a6144" name="Changes" comment="Day 1">
-      <change afterPath="$PROJECT_DIR$/Strings/modify.py" afterDir="false" />
+    <list default="true" id="473347ac-70e6-4113-8145-52a07a5a6144" name="Changes" comment="Day 2">
+      <change afterPath="$PROJECT_DIR$/Basics/boolean.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operators/arithmetic.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operators/assignment.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Basics/strings.py" beforeDir="false" afterPath="$PROJECT_DIR$/Basics/strings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings/slicing.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/slicing.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Strings/modify.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/modify.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +55,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.arithmetic.executor": "Run",
+    "Python.assignment.executor": "Run",
     "Python.basics.executor": "Run",
+    "Python.boolean.executor": "Run",
     "Python.datatypes.executor": "Run",
     "Python.modify.executor": "Run",
     "Python.slicing.executor": "Debug",

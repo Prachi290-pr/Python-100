@@ -30,3 +30,25 @@ print(d)
 
 e = a + " " + c
 print(e)
+
+
+
+## Format Strings
+
+# Using f-strings
+age = 32
+text = f"My name is Prachi, im {age} years old"
+print(text)
+
+# Placeholder  :.
+price = 58
+text2 = f"The price is {price:.2f} dollars"
+print(text2)
+
+text3 = f"The price is {20*2} dollars"
+print(text3)
+
+
+## Escape characters
+print("We are the so called \"Vikings\" of the north.")
+print('We are the so called \'Vikings\' of the north.')
