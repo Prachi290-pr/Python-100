@@ -1,0 +1,43 @@
+()      Parentheses (grouping)
+**      Exponentiation
+
+
++x      Unary plus
+-x      Unary minus
+~x      Bitwise NOT
+
+
+*       Multiplication
+/       Division
+//      Floor division
+%       Modulus
+
+
++       Addition
+-       Subtraction
+
+
+<<      Bitwise left shift
+>>      Bitwise right shift
+
+
+&       Bitwise AND
+^       Bitwise XOR
+|       Bitwise OR
+
+
+==      Equal to
+!=      Not equal to
+>       Greater than
+>=      Greater than or equal to
+<       Less than
+<=      Less than or equal to
+is      Same object (identity)
+is not  Different object
+in      Membership
+not in  Not membership
+
+
+not     Logical NOT
+and     Logical AND
+or      Logical OR
