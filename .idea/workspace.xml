@@ -5,11 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="473347ac-70e6-4113-8145-52a07a5a6144" name="Changes" comment="Day 3">
-      <change afterPath="$PROJECT_DIR$/Basics/boolean.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operators/arithmetic.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Operators/assignment.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operators/bitwise.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Operators/mixed.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Strings/modify.py" beforeDir="false" afterPath="$PROJECT_DIR$/Strings/modify.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Operators/assignment.py" beforeDir="false" afterPath="$PROJECT_DIR$/Operators/assignment.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,6 +59,7 @@
     "Python.basics.executor": "Run",
     "Python.boolean.executor": "Run",
     "Python.datatypes.executor": "Run",
+    "Python.mixed.executor": "Run",
     "Python.modify.executor": "Run",
     "Python.slicing.executor": "Debug",
     "Python.strings.executor": "Run",
@@ -129,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766750525689</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Day 3">
+      <option name="closed" value="true" />
+      <created>1766750561662</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1766750561662</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
