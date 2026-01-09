@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="473347ac-70e6-4113-8145-52a07a5a6144" name="Changes" comment="Day 3">
-      <change afterPath="$PROJECT_DIR$/List/basic.py" afterDir="false" />
+    <list default="true" id="473347ac-70e6-4113-8145-52a07a5a6144" name="Changes" comment="Day 4">
+      <change afterPath="$PROJECT_DIR$/List/listComprehension.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/loop.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/sort&amp;copy.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/List/removeItems.py" beforeDir="false" afterPath="$PROJECT_DIR$/List/removeItems.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,9 +62,13 @@
     "Python.bitwise.executor": "Run",
     "Python.boolean.executor": "Run",
     "Python.datatypes.executor": "Run",
+    "Python.listComprehension.executor": "Run",
+    "Python.loop.executor": "Run",
     "Python.mixed.executor": "Run",
     "Python.modify.executor": "Run",
+    "Python.removeItems.executor": "Run",
     "Python.slicing.executor": "Debug",
+    "Python.sort&copy.executor": "Run",
     "Python.strings.executor": "Run",
     "Python.variables.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -137,7 +144,15 @@
       <option name="project" value="LOCAL" />
       <updated>1766750561662</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Day 4">
+      <option name="closed" value="true" />
+      <created>1767981584123</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1767981584123</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -154,6 +169,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Day 1" />
     <MESSAGE value="Day 3" />
-    <option name="LAST_COMMIT_MESSAGE" value="Day 3" />
+    <MESSAGE value="Day 4" />
+    <option name="LAST_COMMIT_MESSAGE" value="Day 4" />
   </component>
 </project>
