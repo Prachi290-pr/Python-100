@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="473347ac-70e6-4113-8145-52a07a5a6144" name="Changes" comment="Day 3">
-      <change afterPath="$PROJECT_DIR$/Operators/precedence.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/List/basic.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Operators/bitwise.py" beforeDir="false" afterPath="$PROJECT_DIR$/Operators/bitwise.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,6 +54,7 @@
   "keyToString": {
     "Python.arithmetic.executor": "Run",
     "Python.assignment.executor": "Run",
+    "Python.basic.executor": "Run",
     "Python.basics.executor": "Run",
     "Python.bitwise.executor": "Run",
     "Python.boolean.executor": "Run",
